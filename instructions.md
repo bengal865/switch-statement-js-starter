@@ -1,7 +1,7 @@
-﻿# Project Title
+﻿# JavaScript Switch Statements
 
 ## Submitting Your Work
- - Save your project files to a new GitHub repo named: ***test123-web***
+ - Save your project files to a new GitHub repo named: ***switch-statements-js***
  - Submit on Google Classroom the web address (URL) that points to your repo 
 
 ## Sample Output
@@ -14,15 +14,15 @@ Your finished project should look similar to this example:
 
 ## Specifications
 
-Build a web page that meets the following specifications:
+Write a script that meets the following specifications:
 
- - Spec 1
- - Spec 2
+- Spec 1
+- Spec 2
 
 ## Helpful Resources
 
- - About [HTML comments](https://www.w3schools.com/html/html_comments.asp)
- - Resource 2
+ - [switch statements] (w3schools.com)](https://www.w3schools.com/js/js_switch.asp)
+ - [Web Dev Simplified: Switch Statements](https://youtu.be/2gE2K8i5tvs?feature=shared)
  
 ## Directions
 
