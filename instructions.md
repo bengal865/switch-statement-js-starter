@@ -8,16 +8,17 @@
 
 Your finished project should look similar to this example:
 
-![Desert landscape in Mexico](desert-mexico.png "Mexican Desert")
+![Addition with the switch statement](switch-addition-output.png "JavaScript switch statement demo")
 
-*Desert in Mexico*
+*Simple addition with the switch statement*
 
 ## Specifications
 
 Write a script that meets the following specifications:
 
-- Spec 1
-- Spec 2
+- includes a comment block (name, current date, project title) at the top of your script
+- uses the keywords **let** or **const** for variable declarations
+- uses correct spelling and grammar throughout
 
 ## Helpful Resources
 
@@ -26,7 +27,16 @@ Write a script that meets the following specifications:
  
 ## Directions
 
- - Step 1
- - Step 2
+ - Add a comment block to the top of your script
+ - Prompt the user to enter a letter code:
+   - A for addition
+   - S for subtraction
+   - use the toUpperCase ( ) method to convert the letter code to uppercase 
+ - prompts the user to enter two (2) numbers
+   - NOTE: Use the *parseFloat ( )* function to convert the user's input to numbers
+ - Use a switch statement to determine whether the user wants to do addition or subtraction
+ - Perform the addition or subtraction
+ - Use template strings to build your output strings
+ - Use the *console.log ( )* method to display the output in the browser console
 
 
