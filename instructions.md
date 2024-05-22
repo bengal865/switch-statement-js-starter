@@ -21,7 +21,7 @@ Write a script that meets the following specifications:
 
 ## Helpful Resources
 
- - [switch statements](https://www.w3schools.com/js/js_switch.asp)
+ - [w3schools.com: Switch statements](https://www.w3schools.com/js/js_switch.asp)
  - [Web Dev Simplified: Switch Statements](https://youtu.be/2gE2K8i5tvs?feature=shared)
  
 ## Directions
