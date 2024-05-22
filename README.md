@@ -1,2 +1,2 @@
 # switch-statement-js-starter
-Starter files for JavaScript switch statement practice projects
+Please read the (markdown instructions)[https://github.com/bengal865/switch-statement-js-starter] for this set of JavaScript projects.
